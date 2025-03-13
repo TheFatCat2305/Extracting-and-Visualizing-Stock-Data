@@ -15,7 +15,7 @@ This project provides an interactive dashboard for analyzing stock performance o
 
 ## How to Run
 1. Clone this repository:
-   git clone gh repo clone TheFatCat2305/Extracting-and-Visualizing-Stock-Data
+   [git clone gh repo clone TheFatCat2305/Extracting-and-Visualizing-Stock-Data](https://github.com/TheFatCat2305/Extracting-and-Visualizing-Stock-Data.git)
    
 2. Install dependencies:
 pip install -r requirements.txt
