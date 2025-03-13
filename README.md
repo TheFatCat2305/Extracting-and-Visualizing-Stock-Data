@@ -15,7 +15,7 @@ This project provides an interactive dashboard for analyzing stock performance o
 
 ## How to Run
 1. Clone this repository:
-   git clone https://github.com/yourusername/Stock-Market-Analysis-Dashboard.git
+   git clone gh repo clone TheFatCat2305/Extracting-and-Visualizing-Stock-Data
    
 2. Install dependencies:
 pip install -r requirements.txt
